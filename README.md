@@ -1,2 +1,2 @@
 # BIMM143
-My classwork from BIMM143 at Uuniversity of Cal SD.
+My classwork from BIMM143 at University of Cal SD.
