@@ -14,7 +14,7 @@ My classwork from [BIMM143] at UC San Diego Winter 2023.
 
 - Class 8: [Unsupervised Learning Mini-Project]()
 
-- Class 9: [Structural Bioinformatics]()
+- Class 9: [Structural Bioinformatics](https://github.com/briwanna/bimm143_github/blob/main/class09/Class09.qmd)
 
 - Class 10: [Halloween Candy Mini-Project](https://github.com/briwanna/bimm143_github/blob/main/Class10/class10.qmd)
 
