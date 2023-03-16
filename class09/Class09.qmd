@@ -1,0 +1,63 @@
+---
+title: "Class 09: Structural Bioinformatics"
+author: "Brianna Smith"
+format: html
+---
+
+# What is in the PBD anyway?
+
+The main database of biomolecular structures us called the PDB and is avalible at www.rcsb.org.
+
+Let's begin by seeing what is in this database:
+
+```{r}
+pdbstats <- read.csv("PDB.csv", row.names=1)
+head(pdbstats)
+```
+
+> Q1: What percentage of structures in the PDB are solved by X-Ray and Electron Microscopy.
+
+```{r}
+# Deal with the comma making these nonnumeric...
+n.xray <- sum(as.numeric(gsub("," , "", pdbstats$X.ray)))
+n.em <- sum(as.numeric(gsub("," , "", pdbstats$EM)))
+n.total <- sum(as.numeric(gsub("," , "", pdbstats$Total)))
+
+p.xray <- (n.xray/n.total)*100
+p.em <- (n.em/n.total)*100
+
+# and to 2 s.f
+round(p.xray, 2)
+round(p.em, 2)
+
+```
+
+There are `r n.xray` protein structures (`r round(p.xray,2)`%) and `r n.em` (`r round(p.em,2)`%) EM structures in the current PDB database.
+
+
+> Q2: What proportion of structures in the PDB are protein?
+
+```{r}
+as.numeric(gsub("," , "", pdbstats$Total))/n.total*100
+```
+
+86.9% of the structures in the PDB are protein only.
+
+> Q3: Type HIV in the PDB website search box on the home page and determine how many HIV-1 protease structures are in the current PDB?
+
+It is not straightforward to find all HIV-1 protease structures using plain text searching on the database.
+
+Q4: Water molecules normally have 3 atoms. Why do we see just one atom per water molecule in this structure?
+
+Q5: There is a critical “conserved” water molecule in the binding site. Can you identify this water molecule? What residue number does this water molecule have
+
+Q6: Generate and save a figure clearly showing the two distinct chains of HIV-protease along with the ligand. You might also consider showing the catalytic residues ASP 25 in each chain and the critical water (we recommend “Ball & Stick” for these side-chains). Add this figure to your Quarto document.
+
+Q7: [Optional] As you have hopefully observed HIV protease is a homodimer (i.e. it is composed of two identical chains). With the aid of the graphic display can you identify secondary structure elements that are likely to only form in the dimer rather than the monomer?
+
+
+
+
+
+
+
