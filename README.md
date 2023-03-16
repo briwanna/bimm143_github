@@ -18,7 +18,7 @@ My classwork from [BIMM143] at UC San Diego Winter 2023.
 
 - Class 11: [Genome Informatics](https://github.com/briwanna/bimm143_github/blob/main/Class11/class11.qmd)
 
-- Class 12: [Transcriptomics and the analysis of RNA-Seq data]()
+- Class 12: [Transcriptomics and the analysis of RNA-Seq data](https://github.com/briwanna/bimm143_github/blob/main/Class%2012/class12.qmd)
 
 - Class 13: [RNA-Seq analysis mini-project]()
 
