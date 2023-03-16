@@ -12,7 +12,7 @@ My classwork from [BIMM143] at UC San Diego Winter 2023.
 
 - Class 7: [Machine Learning for Bioinformatics](https://github.com/briwanna/bimm143_github/blob/main/class07/class07.qmd)
 
-- Class 8:
+- Class 8: [Unsupervised Learning Mini-Project]()
 
 - Class 9:
 
