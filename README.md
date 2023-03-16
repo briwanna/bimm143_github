@@ -8,7 +8,7 @@ My classwork from [BIMM143] at UC San Diego Winter 2023.
 
 - Class 5: [Data visualization with ggplot2](https://github.com/briwanna/bimm143_github/blob/main/class05/class05.qmd)
 
-- Class 6: [R Functions]()
+- Class 6: [R Functions](https://github.com/briwanna/bimm143_github/blob/main/class06/class06.qmd)
 
 - Class 7: [Machine Learning for Bioinformatics]()
 
