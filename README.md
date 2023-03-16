@@ -2,9 +2,7 @@
 
 My classwork from [BIMM143] at UC San Diego Winter 2023. 
 
-- Class 4: [Introduction to R]()
-
-- Class 4: 
+- Class 4: [Introduction to R](https://github.com/briwanna/bimm143_github/blob/main/Class04/class04.pdf)
 
 - Class 5: [Data visualization with ggplot2](https://github.com/briwanna/bimm143_github/blob/main/class05/class05.qmd)
 
