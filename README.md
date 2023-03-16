@@ -14,21 +14,21 @@ My classwork from [BIMM143] at UC San Diego Winter 2023.
 
 - Class 8: [Unsupervised Learning Mini-Project]()
 
-- Class 9:
+- Class 9: [Structural Bioinformatics]()
 
 - Class 10: [Halloween Candy Mini-Project](https://github.com/briwanna/bimm143_github/blob/main/Class10/class10.qmd)
 
 - Class 11: [Genome Informatics]()
 
-- Class 12:
+- Class 12: [Transcriptomics and the analysis of RNA-Seq data]()
 
-- Class 13:
+- Class 13: [RNA-Seq analysis mini-project]()
 
-- Class 14:
+- Class 14: [Hands-on with Git and GitHub]()
 
-- Class 15:
+- Class 15: [Essential UNIX for bioinformatics]()
 
-- Class 16:
+- Class 16: [Analyzing sequencing data in the cloud]()
 
 - Class 17:
 
