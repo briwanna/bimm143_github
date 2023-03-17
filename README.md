@@ -22,19 +22,19 @@ My classwork from [BIMM143] at UC San Diego Winter 2023.
 
 - Class 13: [RNA-Seq analysis mini-project](https://github.com/briwanna/bimm143_github/blob/main/Class13/class13.qmd)
 
-- Class 14: [Hands-on with Git and GitHub]()
+- Class 14: Hands-on with Git and GitHub
 
-- Class 15: [Essential UNIX for bioinformatics]()
+- Class 15: Essential UNIX for bioinformatics
 
-- Class 16: [Analyzing sequencing data in the cloud]()
+- Class 16: Analyzing sequencing data in the cloud
 
-- Class 17: [Vaccination rate mini project]()
+- Class 17: Vaccination rate mini project
 
-- Class 18: [Mutational signatures of cancer mini project]()
+- Class 18: Mutational signatures of cancer mini project
 
-- Class 19: [Mini Project: Investigating Pertussis Resurgence]()
+- Class 19: Mini Project: Investigating Pertussis Resurgence
 
-- Class 20: [GitHub pages online portfolio completion plus bonus Bioinformatics in industry session]()
+- Class 20: GitHub pages online portfolio completion plus bonus Bioinformatics in industry session
 
 
 
